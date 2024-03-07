@@ -7,5 +7,7 @@ public class Class1 {
         System.out.println("git stash");
         System.out.println("git stash from br1");
         System.out.println("check the stash");
+        System.out.println("on master");
+
     }
 }
