@@ -5,5 +5,6 @@ public class Class1 {
         System.out.println("second note");
         System.out.println("On branch br1");
         System.out.println("git stash");
+        System.out.println("git stash from br1");
     }
 }
